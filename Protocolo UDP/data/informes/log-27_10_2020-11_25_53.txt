@@ -1,0 +1,4 @@
+Numero de conexiones: 10
+Hora_Fecha: 11-27-11_27/10/2020
+Nombre del archivo: texto1.txt.
+Tamanio del archivo: 0 bytes.
